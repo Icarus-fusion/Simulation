@@ -1,8 +1,5 @@
-# Simulation
+# Solaris
 
-This project start as a student work for exam and continue today as a personal work.
-The goal of this is to create an other way to simulate plasma physics inside tokamak reactor.
+## Présentation
 
-## How to use
-
-Just download the main the files and run them with python 3.13 or above
+Solaris est le coeur de Icarus-fusion. Il a pour but de simuler l'intérieur d'un réacteur à fusion nucléaire afin d'en déduire sa consommation ainsi que sa production. 
